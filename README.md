@@ -29,7 +29,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  video_compress: ^3.1.0
+  video_compress_plus: ^1.0.0
 ```
 
 ### 2. Install it
