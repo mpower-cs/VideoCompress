@@ -1,4 +1,4 @@
-package com.example.video_compress
+package com.aravi.video_compress
 
 import android.content.Context
 import android.graphics.Bitmap
