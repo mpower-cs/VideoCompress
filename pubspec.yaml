@@ -1,4 +1,4 @@
-name: video_compress_plus
+name: video_compress
 description: Light library of video manipulation of Flutter. Compress video, remove audio, get video thumbnail from dart code.
 version: 1.0.0
 homepage: https://github.com/kamaravichow/VideoCompressPlus

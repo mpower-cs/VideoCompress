@@ -29,7 +29,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  video_compress_plus: ^1.0.0
+  video_compress: ^1.0.0
 ```
 
 ### 2. Install it
@@ -47,7 +47,7 @@ $  pub get
 Now in your `Dart` code, you can use: 
 
 ````dart
-import 'package:video_compress_plus/video_compress_plus.dart';
+import 'package:video_compress/video_compress.dart';
 ````
 
 # How to use
@@ -55,7 +55,7 @@ import 'package:video_compress_plus/video_compress_plus.dart';
 ### Imports
 
 ````dart
-import 'package:video_compress_plus/video_compress_plus.dart';
+import 'package:video_compress/video_compress.dart';
     
 ````
 

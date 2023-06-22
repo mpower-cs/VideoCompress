@@ -4,8 +4,8 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:video_compress_plus/src/progress_callback/compress_mixin.dart';
-import 'package:video_compress_plus/video_compress_plus.dart';
+import 'package:video_compress/src/progress_callback/compress_mixin.dart';
+import 'package:video_compress/video_compress.dart';
 
 abstract class IVideoCompress extends CompressMixin {}
 
