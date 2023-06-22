@@ -15,7 +15,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.aravi.video_compress
+        package: com.spectora.video_compress
         pluginClass: VideoCompressPlugin
       ios:
         pluginClass: VideoCompressPlugin

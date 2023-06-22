@@ -1,4 +1,4 @@
-package com.aravi.video_compress
+package com.spectora.video_compress
 
 import android.content.Context
 import android.net.Uri

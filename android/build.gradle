@@ -1,4 +1,4 @@
-group 'com.aravi.video_compress'
+group 'com.spectora.video_compress'
 version '1.0'
 
 buildscript {
