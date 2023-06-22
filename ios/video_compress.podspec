@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 A new flutter plugin project.
                        DESC
-  s.homepage         = 'https://github.com/kamaravichow/VideoCompressPlus'
+  s.homepage         = 'https://github.com/SpectoraSoftware/VideoCompress'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Jonny Borges' => 'jonataborges01@gmail.com' }
   s.source           = { :path => '.' }
